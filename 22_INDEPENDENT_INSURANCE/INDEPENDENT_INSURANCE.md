@@ -1,0 +1,25 @@
+# Independent Insurance — BRUGES
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** BRUGES | Category: MINING
+**Upstream:** https://github.com/agile-geoscience/bruges (Apache 2.0)
+
+## Overview
+
+This document covers independent insurance for the Anticloud integration of BRUGES.
+
+Geophysics library for mining exploration
+
+## Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into BRUGES to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg

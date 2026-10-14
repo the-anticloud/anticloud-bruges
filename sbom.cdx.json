@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:7ab45c81-c459-5ea9-b2ec-3a73d2748256",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-07T08:46:45Z",
+    "component": {
+      "type": "application",
+      "name": "BRUGES",
+      "version": "7fbd8440f273",
+      "bom-ref": "pkg:generic/anticloud/BRUGES@7fbd8440f273",
+      "purl": "pkg:generic/anticloud/BRUGES@7fbd8440f273",
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "7fbd8440f2737ef51fde0113aa3b5681e19ab744"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/the-anticloud/anticloud-bruges.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
